@@ -1,4 +1,4 @@
-package com.xiang.gao.Method;
+package com.xiang.gao.sort;
 
 /**
  * 希尔排序

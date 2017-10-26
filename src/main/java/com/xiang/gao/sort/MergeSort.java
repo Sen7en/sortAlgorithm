@@ -1,4 +1,4 @@
-package com.xiang.gao.Method;
+package com.xiang.gao.sort;
 
 import java.util.Arrays;
 
@@ -59,7 +59,7 @@ public class MergeSort {
     public static void main(String[] args) {
 
         int[] nums = {5, 3, 2, -1};
-        String s = "a";
+        String s = "staticFactory";
         MergeSort.sort(nums, 0, nums.length - 1);
         System.out.println(Arrays.toString(nums));
     }

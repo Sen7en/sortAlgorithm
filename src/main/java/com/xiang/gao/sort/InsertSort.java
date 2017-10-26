@@ -1,4 +1,4 @@
-package com.xiang.gao.Method;
+package com.xiang.gao.sort;
 
 /**
  * 插入排序
